@@ -1,0 +1,7 @@
+{
+  "name": "RF24Mesh",
+  "version": "1.0.4",
+  "author": "TMRh20 <tmrh20@gmail.com>",
+  "license": "Unknown",
+  "description": "A simple and seamless 'mesh' layer for sensor networks. Designed to interface directly with with the RF24Network Development library, an OSI Network Layer using nRF24L01(+) radios driven by the newly optimized RF24 library fork."
+}
